@@ -1,0 +1,1 @@
+Autoshoot anywhere like you would while farming. Toggle 'Autoshoot while farming' in Options -> Gameplay should be enabled.

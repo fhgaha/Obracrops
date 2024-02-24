@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3031581807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03608e1ac5158f45aa1f11928dddbe04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31f64c287a356b7ccb4785f1c9e8bde2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Dither/Dither.shader
+- Assets/Dither/bayer1920x1080.png
+- Assets/Dither/ramp4x1.bmp
+Dependencies: []

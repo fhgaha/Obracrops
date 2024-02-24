@@ -1,0 +1,9 @@
+{
+  "name": "Oracrops",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/fhgaha/Autoshoot",
+  "description": "Autoshoot anywhere like when you are farming",
+  "dependencies": [
+    "BepInEx-BepInExPack_x86-5.4.2100"
+  ]
+}
